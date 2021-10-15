@@ -20,9 +20,13 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+This GIF shows that user can view comments and add a new comment:
+![ezgif com-gif-maker (20)](https://user-images.githubusercontent.com/72881310/137565187-46238ff1-ee40-4e9d-a51e-dc9d1750c3ca.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+This GIF shows that a user can log out and stay logged in across restarts.
+
+<img src='https://user-images.githubusercontent.com/72881310/137565494-41491e17-27c0-41af-ae20-0fa76d879ba8.gif' width=300 height=500 alt='Video Walkthrough' />
 
 
 # Parstagram - Part I
